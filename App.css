@@ -1,0 +1,47 @@
+.page1{
+    position: absolute;
+    top:26%;
+    left:13%;
+    border:2px solid black;
+    padding: 3%;
+    border-radius: 8px;
+    box-shadow: 2px 2px 2px rgb(122, 121, 121);
+    background-color: aliceblue;
+}
+.page2{
+    margin-top: 0;
+}
+.page3{
+    background-image: url("loc.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+    width: 100%;
+}
+.item1{
+    background-image: url("use1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+    width: 100%;
+
+}
+.item2{
+    position: absolute;
+    top:50%;
+    left:40%;
+    color: beige;
+    font-size: 30px;
+    font-family: cursive;
+}
+
+.item3{
+    background-image: url("admin1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 800px;
+    width: 100%;
+    margin: 0;
+    padding-top: 1%;
+}
+
